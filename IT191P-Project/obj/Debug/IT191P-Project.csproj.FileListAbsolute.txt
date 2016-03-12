@@ -1,0 +1,12 @@
+d:\documents\documents\visual studio 2013\Projects\IT191P-Project\IT191P-Project\bin\IT191P-Project.dll.config
+d:\documents\documents\visual studio 2013\Projects\IT191P-Project\IT191P-Project\bin\IT191P-Project.dll
+d:\documents\documents\visual studio 2013\Projects\IT191P-Project\IT191P-Project\bin\IT191P-Project.pdb
+d:\documents\documents\visual studio 2013\Projects\IT191P-Project\IT191P-Project\obj\Debug\IT191P-Project.dll
+d:\documents\documents\visual studio 2013\Projects\IT191P-Project\IT191P-Project\obj\Debug\IT191P-Project.pdb
+d:\documents\documents\visual studio 2013\Projects\IT191P-Project\IT191P-Project\obj\Debug\IT191P-Project.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Documents\Visual Studio 2015\Projects\IT191P-Project\IT191P-Project\bin\IT191P-Project.dll.config
+C:\Users\jacde\Documents\Visual Studio 2015\Projects\IT191P-Project\IT191P-Project\bin\IT191P-Project.dll
+C:\Users\jacde\Documents\Visual Studio 2015\Projects\IT191P-Project\IT191P-Project\bin\IT191P-Project.pdb
+C:\Users\jacde\Documents\Visual Studio 2015\Projects\IT191P-Project\IT191P-Project\obj\Debug\IT191P-Project.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Documents\Visual Studio 2015\Projects\IT191P-Project\IT191P-Project\obj\Debug\IT191P-Project.dll
+C:\Users\jacde\Documents\Visual Studio 2015\Projects\IT191P-Project\IT191P-Project\obj\Debug\IT191P-Project.pdb
